@@ -50,4 +50,4 @@ To run a Question in Turtle, use ? followed by the address to the question. Exam
 ## JavaScript
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" align="right"/>
 
-Turtle supports JavaScript thanks to Greedy Allay once more using the custom JavaScript block in his 
+Turtle supports JavaScript thanks to Greedy Allay once more using the custom JavaScript block in his Tiles extension.
