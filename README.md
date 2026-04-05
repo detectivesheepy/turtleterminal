@@ -36,3 +36,4 @@ etc, etc <br>
 To run a Question in Turtle, use ? followed by the address to the question. Example: `?https://turtleterminal.vercel.app/testquestion.json`
 
 ## JavaScript
+Turtle supports JavaScript thanks to Greedy Allay once more using the custom JavaScript block in his 
