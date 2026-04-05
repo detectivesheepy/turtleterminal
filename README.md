@@ -1,5 +1,5 @@
 # Turtle Terminal
-A terminal for your Web OS or site for if you don't know how to make one
+A free-to-use terminal for your projects, with a windows app because I felt like it
 ## Using
 Embed `https://turtleterminal.vercel.app` into your website
 ## Question
@@ -13,7 +13,7 @@ To run a Question in Turtle, use ? followed by the address to the question. Exam
 ## Commands
 To get a command list, run `help` in the Turtle CLI
 ## Ollama support
-We support Ollama thanks to [Greedy Allay's Ollama PenguinMod port](https://github.com/GreedyAllay/extensions/blob/main/resources/extensions/ollama.js). We have a fork at [turtleollama.js](https://github.com/detectivesheepy/turtleterminal/blob/main/turtleollama.js) in this repo. <br>
+Turtle supporta Ollama thanks to [Greedy Allay's Ollama PenguinMod port](https://github.com/GreedyAllay/extensions/blob/main/resources/extensions/ollama.js). We have a fork at [turtleollama.js](https://github.com/detectivesheepy/turtleterminal/blob/main/turtleollama.js) in this repo. <br>
 Ollama commands
 - `ollama on` Toggle ollama mode on
 - `ollama off` Toggle ollama mode off
