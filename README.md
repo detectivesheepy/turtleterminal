@@ -10,10 +10,10 @@ To get a command list, run `help` in the Turtle CLI
 
 # Languages and other systems
 Jump to...
-- [Ollama](https://github.com/detectivesheepy/turtleterminal/edit/main/README.md#ollama-support)
-- [LSL](https://github.com/detectivesheepy/turtleterminal/edit/main/README.md#lsl-support)
-- Question
-- JavaScript
+- [Ollama](https://github.com/detectivesheepy/turtleterminal/tree/main#ollama-support)
+- [LSL](https://github.com/detectivesheepy/turtleterminal/tree/main#lsl-support)
+- [Question](https://github.com/detectivesheepy/turtleterminal/tree/main#question)
+- [JavaScript](https://github.com/detectivesheepy/turtleterminal/tree/main#javascript)
 
 ## Ollama support
 Turtle supports Ollama thanks to [Greedy Allay's Ollama PenguinMod port](https://github.com/GreedyAllay/extensions/blob/main/resources/extensions/ollama.js). We have a fork at [turtleollama.js](https://github.com/detectivesheepy/turtleterminal/blob/main/turtleollama.js) in this repo. <br>
