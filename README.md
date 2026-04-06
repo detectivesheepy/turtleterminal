@@ -3,14 +3,25 @@
 
 # Turtle Terminal
 <img src="https://github.com/detectivesheepy/turtleterminal/blob/main/logo.png?raw=true" height="150" align="right"/>
-A free-to-use terminal for your projects, with a windows app because I felt like it <br> <br> <br>
+A free-to-use terminal for your projects, with a windows app because I felt like it <br>
+
+### Table of contents
+
+- [Basics](#turtle-terminal)
+  * [Using](#using)
+  * [Commands](#commands)
+- [Languages and other systems](#languages-and-other-systems)
+  * [Ollama support](#ollama-support)
+  * [LSL support](#lsl-support)
+  * [Question](#question)
+  * [JavaScript](#javascript)
+
 
 ## Using
 Embed `https://turtleterminal.vercel.app` into your website
 
 ## Commands
 To get a command list, run `help` in the Turtle CLI
-
 
 
 # Languages and other systems
