@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Before setting up your own server for Turtle, please check the LICENSE (Above, second tab)
+
 # Turtle Terminal
 <img src="https://github.com/detectivesheepy/turtleterminal/blob/main/logo.png?raw=true" height="150" align="right"/>
 A free-to-use terminal for your projects, with a windows app because I felt like it <br> <br> <br>
